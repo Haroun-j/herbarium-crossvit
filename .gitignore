@@ -1,0 +1,22 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# data access and downloaded images (confidential, never committed)
+.env
+certs/
+img_cache/
+
+# training outputs
+*.pth
+*.pkl
+results/test_metrics.json
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

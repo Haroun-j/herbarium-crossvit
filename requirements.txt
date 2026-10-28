@@ -1,0 +1,12 @@
+torch>=2.0
+torchvision>=0.15
+numpy
+pillow
+requests
+scikit-learn
+matplotlib
+tqdm
+# notebook only
+jupyter
+pandas
+seaborn
